@@ -1,0 +1,53 @@
+
+
+
+Ball-game  - check the code in Main.java
+
+ball game (Question 1) 
+
+In this application, we need the objects like denoted with
+
+      O  -  Ball
+
+      W  -  Wall bricks
+
+      G  -  Ground 
+
+      And other additional objects to break by the ball.
+
+      
+
+So I created a layout like which looks like this, by following these steps in the code
+Enter size of the NxN matrix : 7
+Enter the brick's position and the brick type : 2 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type : 2 3 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type : 2 4 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type : 3 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type : 3 3 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type : 3 4 1
+Do you want to continue(Y or N)?N
+      
+
+                              W W W W W W W
+
+                              W           W
+
+                              W   1 1 1   W
+
+                              W   1 1 1   W
+
+                              W           W
+
+                              W           W
+
+                              W G G o G G W
+
+                              
+
+ Then the task is to make the ball to traverse in different directions like Straight, right diagonal, left diagonal etc to hit the bricks in the above example denoted with 1. Still that effort is going on..
+

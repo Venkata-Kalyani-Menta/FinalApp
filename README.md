@@ -5,6 +5,7 @@ In this web application, I used html and css code to create the files required l
       Sign up Form(signup.html)
       Sign in Form(signin.html)
       Contact info Form(contact.html)
+      mystyles.css - to apply styles
       
  + The sign in form consists of the elements Sign up link, email, password, forgot your password and Sign In button.
  + The sign up form consists of the elements like Sign in, email, password, additional secret code and also Sign Up button.
