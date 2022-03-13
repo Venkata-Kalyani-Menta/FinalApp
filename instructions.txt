@@ -1,7 +1,7 @@
 
 
 
-Ball-game
+Ball-game  - check the code in Main.java
 
 ball game (Question 1) 
 
